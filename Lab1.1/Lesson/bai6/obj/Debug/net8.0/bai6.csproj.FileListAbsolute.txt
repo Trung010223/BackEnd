@@ -1,0 +1,14 @@
+D:\BackEnd\Lab1.1\Lesson\bai6\bin\Debug\net8.0\bai6.exe
+D:\BackEnd\Lab1.1\Lesson\bai6\bin\Debug\net8.0\bai6.deps.json
+D:\BackEnd\Lab1.1\Lesson\bai6\bin\Debug\net8.0\bai6.runtimeconfig.json
+D:\BackEnd\Lab1.1\Lesson\bai6\bin\Debug\net8.0\bai6.dll
+D:\BackEnd\Lab1.1\Lesson\bai6\bin\Debug\net8.0\bai6.pdb
+D:\BackEnd\Lab1.1\Lesson\bai6\obj\Debug\net8.0\bai6.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\Lab1.1\Lesson\bai6\obj\Debug\net8.0\bai6.AssemblyInfoInputs.cache
+D:\BackEnd\Lab1.1\Lesson\bai6\obj\Debug\net8.0\bai6.AssemblyInfo.cs
+D:\BackEnd\Lab1.1\Lesson\bai6\obj\Debug\net8.0\bai6.csproj.CoreCompileInputs.cache
+D:\BackEnd\Lab1.1\Lesson\bai6\obj\Debug\net8.0\bai6.dll
+D:\BackEnd\Lab1.1\Lesson\bai6\obj\Debug\net8.0\refint\bai6.dll
+D:\BackEnd\Lab1.1\Lesson\bai6\obj\Debug\net8.0\bai6.pdb
+D:\BackEnd\Lab1.1\Lesson\bai6\obj\Debug\net8.0\bai6.genruntimeconfig.cache
+D:\BackEnd\Lab1.1\Lesson\bai6\obj\Debug\net8.0\ref\bai6.dll
