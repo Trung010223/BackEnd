@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Edit";
+    int? taskId = ViewBag.TaskId as int?;
+    string taskName = ViewBag.TaskName as string;
+
+    // Kiểm tra nếu taskId hoặc taskName là null
+    if (!taskId.HasValue || taskName == null)
+    {
+        <p>Error: Task not found.</p>
+        return; // Dừng xử lý nếu không có dữ liệu
+    }
+}
+
+<h2>Edit</h2>
+<form method="post">
+    <input type="hidden" name="id" value="@taskId.Value" />
+    <div class="form-group">
+        <label for="updatedTask">Task</label>
+        <input type="text" class="form-control" id="updatedTask" name="updatedTask" value="@taskName" required />
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Save</button>
+</form>

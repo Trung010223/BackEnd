@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ki-6\\Lab2\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13870F46-7FD4-491B-9D38-7989D53C74B4}|Lab2\\Lab2.csproj|d:\\ki-6\\lab2\\lab2\\lab2\\views\\homecontrollertodo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13870F46-7FD4-491B-9D38-7989D53C74B4}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\homecontrollertodo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13870F46-7FD4-491B-9D38-7989D53C74B4}|Lab2\\Lab2.csproj|d:\\ki-6\\lab2\\lab2\\lab2\\views\\homecontrollertodo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13870F46-7FD4-491B-9D38-7989D53C74B4}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\homecontrollertodo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13870F46-7FD4-491B-9D38-7989D53C74B4}|Lab2\\Lab2.csproj|d:\\ki-6\\lab2\\lab2\\lab2\\controllers\\homecontrollertodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13870F46-7FD4-491B-9D38-7989D53C74B4}|Lab2\\Lab2.csproj|solutionrelative:lab2\\controllers\\homecontrollertodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13870F46-7FD4-491B-9D38-7989D53C74B4}|Lab2\\Lab2.csproj|d:\\ki-6\\lab2\\lab2\\lab2\\views\\homecontrollertodo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13870F46-7FD4-491B-9D38-7989D53C74B4}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\homecontrollertodo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Ki-6\\Lab2\\Lab2\\Lab2\\Views\\HomeControllerTodo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\HomeControllerTodo\\Edit.cshtml",
+              "ToolTip": "D:\\Ki-6\\Lab2\\Lab2\\Lab2\\Views\\HomeControllerTodo\\Edit.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\HomeControllerTodo\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T15:57:43.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Ki-6\\Lab2\\Lab2\\Lab2\\Views\\HomeControllerTodo\\Add.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\HomeControllerTodo\\Add.cshtml",
+              "ToolTip": "D:\\Ki-6\\Lab2\\Lab2\\Lab2\\Views\\HomeControllerTodo\\Add.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\HomeControllerTodo\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T15:57:21.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ki-6\\Lab2\\Lab2\\Lab2\\Views\\HomeControllerTodo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\HomeControllerTodo\\Index.cshtml",
+              "ToolTip": "D:\\Ki-6\\Lab2\\Lab2\\Lab2\\Views\\HomeControllerTodo\\Index.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\HomeControllerTodo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T15:40:06.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeControllerTodo.cs",
+              "DocumentMoniker": "D:\\Ki-6\\Lab2\\Lab2\\Lab2\\Controllers\\HomeControllerTodo.cs",
+              "RelativeDocumentMoniker": "Lab2\\Controllers\\HomeControllerTodo.cs",
+              "ToolTip": "D:\\Ki-6\\Lab2\\Lab2\\Lab2\\Controllers\\HomeControllerTodo.cs",
+              "RelativeToolTip": "Lab2\\Controllers\\HomeControllerTodo.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:39:10.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
